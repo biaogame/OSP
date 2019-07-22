@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="018dfe88-913f-484d-bc42-8fec029c09bc" solutionId="018dfe88-913f-484d-bc42-8fec029c09bc" resetWebServer="false" sharePointProductVersion="16.0" name="OSP.Layouts" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="0d201ce8-8eb9-4202-b6b9-371475a7888e" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="89e1c495-63c2-4221-a6dd-4d8dd8760bbc" />
+  </projectItems>
+</package>
