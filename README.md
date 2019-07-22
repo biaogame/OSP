@@ -1,1 +1,1 @@
-"# OSP" 
+cookiecutter-osp
